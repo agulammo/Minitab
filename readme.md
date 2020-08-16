@@ -25,7 +25,7 @@
  - Hold Time and Cycle Time: Continuous Variable ( 1.23,0.99,1.53,…)
  - Number of Holds: Integer (1,2,3,…)
  
-    ![Screenshot from minitab](figures/figure1.png)
+   ![Screenshot from minitab](figures/figure1.png)
 
 ### Coefficient
 - It says about the magnitude(Size) and  direction of the relationship between a predictor(Independent) and the response( Dependent) variable.
@@ -54,7 +54,7 @@ The p-value is a probability of falsely rejecting the Null Hypothesis while actu
 - Here P value for Number of Holds = .011, since P is less than 0.05 then reject the Null Hypothesis and can conclude that there is a statistically significant relationship between the Independent and dependent variable
 - But for Hold Time, P-value  = 0.153, If the p-value is greater than the significance level, you cannot conclude that there is a statistically significant association between the he Independent and dependent variable. You may want to refit the model without this variable.
 
-  ![Screenshot from minitab](figures/figure4.png)
+   ![Screenshot from minitab](figures/figure4.png)
 
 
 ### Variance Inflation factor (VIF) 
@@ -83,7 +83,7 @@ In the given data, we can determine that VIF is less and hence the collinearity 
 ### Unusual Observation:
 It shows the `“Outliers”` in the model. Observation 10 is an outlier and is not used to build the model.
 
-   ![Screenshot from minitab](figures/figure7.png)
+  ![Screenshot from minitab](figures/figure7.png)
 
 Generally, we use the regression equation to predict for any future observations.
 But for the given data, we determined that
@@ -103,7 +103,7 @@ Hence, before concluding to reject the data unfit for prediction, lets remove th
 2. Low R^2, Adjusted R^2, and Predicted R^2.
 3. We have two outliers instead of one.
 
-    ![Screenshot from minitab](figures/figure10.png)
+   ![Screenshot from minitab](figures/figure10.png)
 
 Thus we can conclude that the given data is unfit for prediction as the model yields poor ^2, Adjusted R^2, and Predicted R^2 values and there exist logical fallacy between independent and dependent variable.        
 
