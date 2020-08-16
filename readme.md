@@ -77,6 +77,7 @@ In the given data, we can determine that VIF is less and hence the collinearity 
 
 ### Predicted R Square
 - The Predicted R^2 helps us to determine how well the model predicts the(dependent variable) if there is a new set observations. If predicted R^2 is high that means, the model have better predictive ability and Vice versa.
+
    ![Screenshot from minitab](figures/figure6.png)
 
  
