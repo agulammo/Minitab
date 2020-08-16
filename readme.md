@@ -36,7 +36,7 @@
 - But there is a logical fallacy. 
 - i.e., When call hold time decrease the cycle time decreases and WILL NOT Increase.
 - This explains “Correlation is not Causation”.
-- Thus we can conclude that `**the reflection from the coefficient is misleading and we cannot use the given data for prediction**`.
+- Thus we can conclude that **`the reflection from the coefficient is misleading and we cannot use the given data for prediction`**.
 
    ![Screenshot from minitab](figures/figure2.png)
 
